@@ -27,5 +27,4 @@ LoriLah! is a web-based application designed to manage and monitor food trucks i
 ### 🔐 Login  
 ![Login](https://github.com/user-attachments/assets/9eb83d20-a2ed-45f3-aa1e-775824a9cc79)
 
-> *(Place your screenshots in a `screenshots/` folder inside your repo)*
 
